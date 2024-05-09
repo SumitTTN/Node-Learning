@@ -1,0 +1,1 @@
+console.log(":: client sode javascripts")
